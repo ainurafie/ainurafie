@@ -12,7 +12,7 @@
 
 - 🎓 I hold a Bachelor's Degree in Computer Science from Telkom Purwokerto Institute of Technology
 
-- 🔭 I’m currently working in `SolveIt Platform` as `Backend Developer`
+- 🔭 I’m currently working in `SolveIt Platform` as `Frontend Developer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
